@@ -113,4 +113,25 @@ The RAMH prototype documentation identifies the following hardware components:
 | Motors / Thrusters | Movement |
 
 
+Technology Stack
 
+Hardware Components
+
+* NVIDIA Jetson Nano: AI processing.
+* HEX Cube + Pixhawk 2: Flight control system.
+* Hydrophone: Underwater sound detection.
+* Camera: Visual detection.
+* Battery (9V / Li-ion): Power supply.
+* Motors / Thrusters: Movement and propulsion.
+
+Technical Areas
+
+* Artificial Intelligence (AI)
+* Machine Learning
+* Computer Vision
+* Object Detection
+* Audio Classification
+* Sensor Fusion
+* System Simulation and Visualization
+
+Note: Programming languages, frameworks, and software libraries are not listed because they have not yet been verified.
