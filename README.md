@@ -62,26 +62,29 @@ Academic research and engineering development.
 ⸻
 
 RAMH — An exploration of AI and intelligent maritime systems through multidisciplinary engineering.
-## Project Performance
-
-![Model Performance and System Visualizations](images/IMG_9631.png)
 
 ## Project Performance
 
-### Model Performance
+### 1. Model Performance
+
 ![Model Performance](images/IMG_9631.png)
 
-### Object Detection Results
+### 2. Object Detection Results
+
 ![Object Detection Results](images/IMG_9632.png)
 
-### System Visualization
+### 3. System Visualization
+
 ![System Visualization](images/IMG_9633.png)
 
-### Acoustic Analysis
+### 4. Acoustic Analysis
+
 ![Acoustic Analysis](images/IMG_9634.png)
 
-### Acoustic Signal
+### 5. Acoustic Signal
+
 ![Acoustic Signal](images/IMG_9635.png)
 
-### 3D System Visualization
+### 6. 3D System Visualization
+
 ![3D System Visualization](images/IMG_9636.png)
