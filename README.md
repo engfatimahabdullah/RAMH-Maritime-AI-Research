@@ -135,3 +135,16 @@ Technical Areas
 * System Simulation and Visualization
 
 Note: Programming languages, frameworks, and software libraries are not listed because they have not yet been verified.
+
+System Architecture & Workflow
+
+The RAMH system follows an integrated processing workflow:
+
+1. Data Acquisition: Collecting visual and acoustic data through the camera and hydrophone.
+2. Signal Processing: Preparing sensor data for analysis.
+3. AI Analysis: Applying object detection and audio classification techniques.
+4. Target Classification: Identifying and classifying detected targets.
+5. Decision Making: Processing analysis results to determine the appropriate response.
+6. Control and Action: Using the control system to support the intended system response.
+
+The workflow combines visual detection, acoustic analysis, and AI-based processing within a unified maritime monitoring concept.
