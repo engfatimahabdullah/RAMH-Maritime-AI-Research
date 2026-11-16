@@ -65,3 +65,23 @@ RAMH — An exploration of AI and intelligent maritime systems through multidisc
 ## Project Performance
 
 ![Model Performance and System Visualizations](images/IMG_9631.png)
+
+## Project Performance
+
+### Model Performance
+![Model Performance](images/IMG_9631.png)
+
+### Object Detection Results
+![Object Detection Results](images/IMG_9632.png)
+
+### System Visualization
+![System Visualization](images/IMG_9633.png)
+
+### Acoustic Analysis
+![Acoustic Analysis](images/IMG_9634.png)
+
+### Acoustic Signal
+![Acoustic Signal](images/IMG_9635.png)
+
+### 3D System Visualization
+![3D System Visualization](images/IMG_9636.png)
