@@ -88,3 +88,12 @@ RAMH — An exploration of AI and intelligent maritime systems through multidisc
 ### 6. 3D System Visualization
 
 ![3D System Visualization](images/IMG_9636.png)
+
+
+## Physical Prototype
+
+### Prototype Overview
+![RAMH Physical Prototype](images/IMG_9666.jpeg)
+
+### Hardware Components
+![RAMH Hardware Components](images/IMG_9667.jpeg)
