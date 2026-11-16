@@ -97,3 +97,20 @@ RAMH — An exploration of AI and intelligent maritime systems through multidisc
 
 ### Hardware Components
 ![RAMH Hardware Components](images/IMG_9667.jpeg)
+
+
+## Hardware Components
+
+The RAMH prototype documentation identifies the following hardware components:
+
+| Component | Purpose |
+|---|---|
+| NVIDIA Jetson Nano | AI Processing |
+| HEX Cube + Pixhawk 2 | Control System |
+| Hydrophone | Sound Detection |
+| Camera | Visual Detection |
+| Battery (9V / Li-ion) | Power Supply |
+| Motors / Thrusters | Movement |
+
+
+
