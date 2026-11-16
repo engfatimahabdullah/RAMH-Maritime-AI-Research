@@ -62,3 +62,6 @@ Academic research and engineering development.
 ⸻
 
 RAMH — An exploration of AI and intelligent maritime systems through multidisciplinary engineering.
+## Project Performance
+
+![Model Performance and System Visualizations](images/IMG_9631.png)
