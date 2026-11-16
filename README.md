@@ -148,3 +148,22 @@ The RAMH system follows an integrated processing workflow:
 6. Control and Action: Using the control system to support the intended system response.
 
 The workflow combines visual detection, acoustic analysis, and AI-based processing within a unified maritime monitoring concept.
+
+Repository Structure
+
+RAMH-Maritime-AI-Research/
+│
+├── README.md
+│
+└── images/
+    ├── IMG_9631.png
+    ├── IMG_9632.png
+    ├── IMG_9633.png
+    ├── IMG_9634.png
+    ├── IMG_9635.png
+    ├── IMG_9636.png
+    ├── IMG_9666.jpeg
+    └── IMG_9667.jpeg
+
+The images directory contains project performance results, system visualizations, and physical prototype photographs.
+
